@@ -1,36 +1,43 @@
-# Hey there! 👋
+# Deepika Devi 👋
 
-I'm Deepika Devi, an AI & Full Stack Developer passionate about building:
+AI & Full Stack Developer focused on building intelligent systems using Generative AI, multi-agent workflows, computer vision, and scalable backend architectures.
 
-- Multi-Agent AI Systems
-- GenAI Applications
-- Real-Time Analytics Platforms
-- Computer Vision Systems
+---
 
 ## 🚀 Tech Stack
-- React.js
-- Flask
-- LangChain
-- OpenAI API
-- OpenCV
-- TensorFlow
-- MongoDB
-- SQLAlchemy
+
+### Languages
+Python • Java • C++ • JavaScript
+
+### Frontend
+React.js • HTML • CSS
+
+### Backend
+Flask • REST APIs • Flask-SocketIO • SQLAlchemy
+
+### AI / ML
+LangChain • LangGraph • OpenAI API • TensorFlow • OpenCV • Scikit-learn • MediaPipe
+
+### Databases
+MongoDB • MySQL • SQLite
+
+---
 
 ## 💡 Featured Projects
 
 ### TouraX
-AI-powered tourism and hotel booking assistant using LangChain and OpenAI APIs.
+AI-powered tourism and hotel booking assistant with autonomous tool-calling workflows, conversational memory, hotel discovery, and intelligent travel assistance using LangChain and OpenAI APIs.
 
 ### SAFENET
-Real-time AI surveillance and behavioral analytics platform using OpenCV and TensorFlow.
+Real-time AI surveillance and behavioral analytics platform for person detection, SOS gesture recognition, and threat monitoring using OpenCV, TensorFlow, and MediaPipe.
 
-## 🧠 Competitive Programming
-- LeetCode Rating: 1812
-- Solved 850+ DSA Problems
+---
+
 
 ## 🌱 Currently Exploring
+
 - Agentic AI Systems
-- LangGraph Workflows
-- AI Orchestration
+- AI Workflow Orchestration
+- Multi-Agent Architectures
 - Real-Time AI Analytics
+- Scalable GenAI Applications
