@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hey there! 👋
 
-<!--
-**DeepikaDevi2906/DeepikaDevi2906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Deepika Devi, an AI & Full Stack Developer passionate about building:
 
-Here are some ideas to get you started:
+- Multi-Agent AI Systems
+- GenAI Applications
+- Real-Time Analytics Platforms
+- Computer Vision Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+- React.js
+- Flask
+- LangChain
+- OpenAI API
+- OpenCV
+- TensorFlow
+- MongoDB
+- SQLAlchemy
+
+## 💡 Featured Projects
+
+### TouraX
+AI-powered tourism and hotel booking assistant using LangChain and OpenAI APIs.
+
+### SAFENET
+Real-time AI surveillance and behavioral analytics platform using OpenCV and TensorFlow.
+
+## 🧠 Competitive Programming
+- LeetCode Rating: 1812
+- Solved 850+ DSA Problems
+
+## 🌱 Currently Exploring
+- Agentic AI Systems
+- LangGraph Workflows
+- AI Orchestration
+- Real-Time AI Analytics
