@@ -1,15 +1,15 @@
 # Hey there! 👋  
 ## I'm Deepika Devi
 
-AI & Full Stack Developer passionate about building intelligent systems using Generative AI, multi-agent workflows, computer vision, and scalable backend architectures.
+AI & Data Science student passionate about building intelligent systems using Generative AI, multi-agent workflows, computer vision, and scalable full-stack architectures.
 
 ---
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Deepika_Devi-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Deepika_Devi-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/deepika-devi-8a42a22aa/)
 [![GitHub](https://img.shields.io/badge/GitHub-DeepikaDevi2906-black?style=for-the-badge&logo=github)](https://github.com/DeepikaDevi2906)
-[![LeetCode](https://img.shields.io/badge/LeetCode-DeepikaDevi29-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-DeepikaDevi29-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/DeepikaDevi29/)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail)](mailto:devideepika3ll@gmail.com)
 
 ---
@@ -43,18 +43,8 @@ AI & Full Stack Developer passionate about building intelligent systems using Ge
 
 ---
 
-# 💡 Featured Projects
 
-## ✨ TouraX
-AI-powered tourism and hotel booking assistant with autonomous tool-calling workflows, conversational memory, hotel discovery, and intelligent travel assistance using LangChain and OpenAI APIs.
-
-## 🛡️ SAFENET
-Real-time AI surveillance and behavioral analytics platform for person detection, SOS gesture recognition, and threat monitoring using OpenCV, TensorFlow, and MediaPipe.
-
----
-
-
-# 🌱 Currently Exploring
+# Currently Exploring
 
 - Agentic AI Systems
 - Multi-Agent Architectures
